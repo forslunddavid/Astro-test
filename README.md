@@ -1,3 +1,6 @@
+# Published webapp on netlify
+https://magnificent-panda-b82be4.netlify.app/
+
 # Astro Starter Kit: Minimal
 
 ```sh
